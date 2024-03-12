@@ -13,7 +13,7 @@ class MyClass
     a * b
   end
 
-  def divide(a, b)
+def div(a, b)
     a / b
   end
 end
